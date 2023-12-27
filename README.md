@@ -6,7 +6,7 @@ This is a survey that reviews deep learning models and benchmark datasets relate
 ## Content:
 
 1. <a href="#survey"> Related Reviews and Surveys to Deblurring </a>
-2. <a href="#CNNmodels"> CNN-based  Blind Motion Deblurring Models </a>
+2. <a href="#cnnmodels"> CNN-based  Blind Motion Deblurring Models </a>
 3.  <a href="#RNNmodels"> RNN-based  Blind Motion Deblurring Models </a>
 4. <a href="#GANmodels"> GAN-based  Blind Motion Deblurring Models </a>
 5. <a href="#Tmodels"> Transformer-based  Blind Motion Deblurring Models </a>
@@ -29,7 +29,7 @@ This is a survey that reviews deep learning models and benchmark datasets relate
 
 ------
 
-## CNN-based Blind Motion Deblurring Models:  <a id="CNNmodels" class="anchor" href="#CNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+## CNN-based Blind Motion Deblurring Models:  <a id="cnnmodels" class="anchor" href="#CNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket::Update (in 2023-21-26)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
