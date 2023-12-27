@@ -28,7 +28,6 @@ This is a survey that reviews deep learning models and benchmark datasets relate
 06 | 2023 | arXiv  |  A Comprehensive Survey on Deep Neural Image Deblurring | [Paper](https://arxiv.org/abs/2310.04719)/Project
 
 ------
-------
 
 ## CNN-based Blind Motion Deblurring Models:  <a id="CNNmodels" class="anchor" href="#CNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket::Update (in 2023-21-26)
