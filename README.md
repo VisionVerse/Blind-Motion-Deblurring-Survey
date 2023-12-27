@@ -12,9 +12,8 @@ This is a survey that reviews deep learning models and benchmark datasets relate
 5. <a href="#tmodels"> Transformer-based  Blind Motion Deblurring Models </a>
 6. <a href="#datasets"> Motion Deblurring Datasets </a>
 8. <a href="#evaluation"> Evaluation </a>
-10. <a href="#citation"> Citation </a>
+9. <a href="#citation"> Citation </a>
 
-------
 ------
 
 ## Related Reviews and Surveys to Deblurring:  <a id="survey" class="anchor" href="#survey" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
