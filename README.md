@@ -68,7 +68,6 @@ This is a survey that reviews deep learning models and benchmark datasets relate
 217 | 2023 |FCFNet| IEEE TSCVT | Feature Calibrating and Fusing Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10185946)/Project
 
 ------
-------
 
 ##  Motion Deblurring Datasets:  <a id="datasets" class="anchor" href="#datasets" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
@@ -78,17 +77,12 @@ This is a survey that reviews deep learning models and benchmark datasets relate
 
 
 ------
-------
-
-------
-------
 
 ## Evaluation:  <a id="evaluation" class="anchor" href="#evaluation" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
 1. Downloading attribute datasets
     
 
-------
 ------
 
 ### Citation: <a id="citation" class="anchor" href="#citation" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
