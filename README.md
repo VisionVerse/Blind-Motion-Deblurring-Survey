@@ -39,6 +39,16 @@ This is a survey that reviews deep learning models and benchmark datasets relate
 1 | 2017 | DeepDeblur| CVPR | Deep multi-scale convolutional neural network for dynamic scene deblurring | [Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Nah_Deep_Multi-Scale_Convolutional_CVPR_2017_paper.pdf)/[Project](https://github.com/SeungjunNah/DeepDeblur-PyTorch)
 
 
+
+
+
+
+
+
+
+
+
+
 ## RNN-based Blind Motion Deblurring Models:  <a id="rnnmodels" class="anchor" href="#RNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2023-12-26)
 
@@ -50,14 +60,27 @@ This is a survey that reviews deep learning models and benchmark datasets relate
 
 
 
+
+
+
+
+
 ## GAN-based Blind Motion Deblurring Models:  <a id="ganmodels" class="anchor" href="#GANmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2023-12-26)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project](https://github.com/Zongwei97/XMSNet)
-218 | 2023 |PopNet| ICCV | Source-free Depth for Object Pop-out | [Paper](https://arxiv.org/pdf/2212.05370.pdf)/[Project](https://github.com/Zongwei97/PopNet)
-217 | 2023 |FCFNet| IEEE TSCVT | Feature Calibrating and Fusing Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10185946)/Project
+3 | 2020 | DBGAN| CVPR | Distribution-induced Bidirectional GAN for Graph Representation Learning | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Distribution-Induced_Bidirectional_Generative_Adversarial_Network_for_Graph_Representation_Learning_CVPR_2020_paper.pdf)/[Project](https://github.com/SsGood/DBGAN)
+2 | 2019 | DeblurGAN-V2 | ICCV | Deblurgan-v2: Deblurring (orders-of-magnitude) faster and better | [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kupyn_DeblurGAN-v2_Deblurring_Orders-of-Magnitude_Faster_and_Better_ICCV_2019_paper.pdf)/[Project](https://github.com/VITA-Group/DeblurGANv2)
+1 | 2018 | DeblurGAN | CVPR | Deblurgan: Blind motion deblurring using conditional adversarial networks | [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kupyn_DeblurGAN_Blind_Motion_CVPR_2018_paper.pdf)/[Project](https://github.com/KupynOrest/DeblurGAN)
+
+
+
+
+
+
+
+
 
 
 ## Transformer-based Blind Motion Deblurring Models:  <a id="tmodels" class="anchor" href="#Tmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
@@ -67,7 +90,7 @@ This is a survey that reviews deep learning models and benchmark datasets relate
 :-: | :-: | :-: | :-  | :-  | :-: 
 219 | 2023 |XMSNet| ACM MM | Object Segmentation by Mining Cross-Modal Semantics | [Paper](https://arxiv.org/pdf/2305.10469.pdf)/[Project](https://github.com/Zongwei97/XMSNet)
 218 | 2023 |PopNet| ICCV | Source-free Depth for Object Pop-out | [Paper](https://arxiv.org/pdf/2212.05370.pdf)/[Project](https://github.com/Zongwei97/PopNet)
-217 | 2023 |FCFNet| IEEE TSCVT | Feature Calibrating and Fusing Network for RGB-D Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/10185946)/Project
+217 | 2023 |FCFNet| IEEE TSCVT | Feature Calibrating and Fusing Network for RGB-D Salient Object Detection | [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kupyn_DeblurGAN_Blind_Motion_CVPR_2018_paper.pdf)/[Project](https://github.com/KupynOrest/DeblurGAN)
 
 ------
 
