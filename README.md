@@ -130,19 +130,19 @@ This is a survey that reviews deep learning models and benchmark datasets relate
 
 ## Evaluation:  <a id="evaluation" class="anchor" href="#evaluation" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
-* For evaluation on GoPro results in MATLAB, modify './out/...' to the corresponding path
+* For evaluation on **GoPro** results in MATLAB, modify './out/...' to the corresponding path
 ```matlab
 evaluation_GoPro.m
 ```
-* For evaluation on HIDE results in MATLAB, modify './out/...' to the corresponding path
+* For evaluation on **HIDE** results in MATLAB, modify './out/...' to the corresponding path
 ```matlab
 evaluation_HIDE.m
 ```
-* For evaluation on RealBlur_J results, modify './out/...' to the corresponding path
+* For evaluation on **RealBlur_J** results, modify './out/...' to the corresponding path
 ```python
 python evaluate_RealBlur_J.py
 ```
-* For evaluation on RealBlur_R results, modify './out/...' to the corresponding path
+* For evaluation on **RealBlur_R** results, modify './out/...' to the corresponding path
 ```python
 python evaluate_RealBlur_R.py
 ```
