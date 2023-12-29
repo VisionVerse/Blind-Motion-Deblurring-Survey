@@ -73,7 +73,8 @@ This is a survey that reviews deep learning models and benchmark datasets relate
 :rocket::rocket::rocket:Update (in 2023-12-26)
 **No.** |**Dataset** | **Year** | **Pub.** |**Size** |  **Types** | **Resolution** | **Download**
 :-: | :-: | :-: | :-  | :-  | :-:| :-: | :-:
-1   | [**STERE**](http://dpfan.net/wp-content/uploads/STERE_dataset_CVPR12.pdf)   |2012 |CVPR   | 1000 | Internet             | [251-1200] * [222-900] | [link](https://github.com/DengPingFan/D3NetBenchmark/)
+1   | [**GoPro**](https://openaccess.thecvf.com/content_cvpr_2017/papers/Nah_Deep_Multi-Scale_Convolutional_CVPR_2017_paper.pdf)   |2017 |CVPR   | 1000 | Synthetic | [251-1200] * [222-900] | [link](https://github.com/SeungjunNah/DeepDeblur-PyTorch)
+2 | [**HIDE**](https://openaccess.thecvf.com/content_ICCV_2019/papers/Shen_Human-Aware_Motion_Deblurring_ICCV_2019_paper.pdf)   |2019 |CVPR   | 1000 | Synthetic | [251-1200] * [222-900] | [link](https://github.com/joanshen0508/HA_deblur)
 
 
 ------
