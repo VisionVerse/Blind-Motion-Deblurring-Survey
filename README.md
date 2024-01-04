@@ -16,7 +16,7 @@ This is a survey that reviews deep learning models and benchmark datasets relate
 
 ------
 
-## Related Reviews and Surveys to Deblurring:  <a id="survey" class="anchor" href="#survey" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# Related Reviews and Surveys to Deblurring:  <a id="survey" class="anchor" href="#survey" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2023-12-28)
 **No.** | **Year** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-: 
@@ -40,7 +40,7 @@ This is a survey that reviews deep learning models and benchmark datasets relate
 
 
 
-## CNN-based Blind Motion Deblurring Models:  <a id="cnnmodels" class="anchor" href="#CNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# CNN-based Blind Motion Deblurring Models:  <a id="cnnmodels" class="anchor" href="#CNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2023-12-26)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
@@ -61,7 +61,7 @@ This is a survey that reviews deep learning models and benchmark datasets relate
 
 
 
-## RNN-based Blind Motion Deblurring Models:  <a id="rnnmodels" class="anchor" href="#RNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# RNN-based Blind Motion Deblurring Models:  <a id="rnnmodels" class="anchor" href="#RNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2023-12-26)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
@@ -77,7 +77,7 @@ This is a survey that reviews deep learning models and benchmark datasets relate
 
 
 
-## GAN-based Blind Motion Deblurring Models:  <a id="ganmodels" class="anchor" href="#GANmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# GAN-based Blind Motion Deblurring Models:  <a id="ganmodels" class="anchor" href="#GANmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2023-12-26)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
@@ -95,7 +95,7 @@ This is a survey that reviews deep learning models and benchmark datasets relate
 
 
 
-## Transformer-based Blind Motion Deblurring Models:  <a id="tmodels" class="anchor" href="#Tmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# Transformer-based Blind Motion Deblurring Models:  <a id="tmodels" class="anchor" href="#Tmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2023-12-26)
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
@@ -118,7 +118,7 @@ This is a survey that reviews deep learning models and benchmark datasets relate
 
 
 
-##  Motion Deblurring Datasets:  <a id="datasets" class="anchor" href="#datasets" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+#  Motion Deblurring Datasets:  <a id="datasets" class="anchor" href="#datasets" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2023-12-26)
 **No.** |**Dataset** | **Year** | **Pub.** |**Size** |  **Types** | **Resolution** | **Download**
 :-: | :-: | :-: | :-  | :-  | :-:| :-: | :-:
@@ -129,7 +129,7 @@ This is a survey that reviews deep learning models and benchmark datasets relate
 
 ------
 
-## Evaluation:  <a id="evaluation" class="anchor" href="#evaluation" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# Evaluation:  <a id="evaluation" class="anchor" href="#evaluation" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
 * For evaluation on **GoPro** results in MATLAB, modify './out/...' to the corresponding path
 ```matlab
@@ -151,7 +151,7 @@ python evaluate_RealBlur_R.py
 
 ------
 
-## Citation: <a id="citation" class="anchor" href="#citation" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+# Citation: <a id="citation" class="anchor" href="#citation" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
 If you find our survey paper and evaluation code are useful, please cite the following paper:
 
