@@ -84,7 +84,9 @@ This is a survey that reviews deep learning models and benchmark datasets relate
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-4 | 2020 | CycleGAN| ICCV | Unpaired image-to-image translation using cycle-consistent adversarial networks | [Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf))/[Project]([https://github.com/SsGood/DBGAN](https://github.com/junyanz/CycleGAN))
+6 | 2022 | Ghost-DeblurGAN| IROS | Application of Ghost-DeblurGAN to Fiducial Marker Detection | [Paper](https://arxiv.org/pdf/2109.03379.pdf)/[Project](https://github.com/York-SDCNLab/Ghost-DeblurGAN)
+5 | 2022 | FCLGAN| ACM | Unpaired image-to-image translation using cycle-consistent adversarial networks | [Paper](https://arxiv.org/pdf/2204.07820.pdf)/[Project](https://github.com/suiyizhao/FCL-GAN)
+4 | 2021 | CycleGAN| ICCV | Unpaired image-to-image translation using cycle-consistent adversarial networks | [Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf)/[Project](https://github.com/junyanz/CycleGAN)
 3 | 2020 | DBGAN| CVPR | Distribution-induced Bidirectional GAN for Graph Representation Learning | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Distribution-Induced_Bidirectional_Generative_Adversarial_Network_for_Graph_Representation_Learning_CVPR_2020_paper.pdf)/[Project](https://github.com/SsGood/DBGAN)
 2 | 2019 | DeblurGAN-V2 | ICCV | Deblurgan-v2: Deblurring (orders-of-magnitude) faster and better | [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kupyn_DeblurGAN-v2_Deblurring_Orders-of-Magnitude_Faster_and_Better_ICCV_2019_paper.pdf)/[Project](https://github.com/VITA-Group/DeblurGANv2)
 1 | 2018 | DeblurGAN | CVPR | Deblurgan: Blind motion deblurring using conditional adversarial networks | [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kupyn_DeblurGAN_Blind_Motion_CVPR_2018_paper.pdf)/[Project](https://github.com/KupynOrest/DeblurGAN)
