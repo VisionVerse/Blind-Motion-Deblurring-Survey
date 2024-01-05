@@ -3,6 +3,8 @@
 This is a survey that reviews deep learning models and benchmark datasets related to blind motion deblurring and provides a comprehensive evaluation of these models.
 
 
+Overview of deep learning methods for blind motion deblurring.
+
 ## Content:
 
 1. <a href="#survey"> Related Reviews and Surveys to Deblurring </a>
