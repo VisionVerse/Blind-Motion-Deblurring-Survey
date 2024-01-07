@@ -145,7 +145,7 @@ This is a survey that reviews deep learning models and benchmark datasets relate
 4 | [**Blur-DVS**](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Learning_Event-Based_Motion_Deblurring_CVPR_2020_paper.pdf) | 2020 | CVPR | 13358 | Real | 8878/1120/3360  | [link]
 5 | [**RealBlur**](https://link.springer.com/chapter/10.1007/978-3-030-58595-2_12)   | 2020 | ECCV   | 4738 | Real | 3758/0/980  | [link]
 6 | [**RsBlur**](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670481.pdf)   | 2022 | ECCV | 13358 | Real | 8878/1120/3360 | [link](https://github.com/rimchang/RSBlur)
-7 | [**ReLoBlur**](https://arxiv.org/abs/2204.08179) | 2023 | AAAI | 13358 | Real | 8878/1120/3360 | [link](https://github.com/LeiaLi/ReLoBlur)
+7 | [**ReLoBlur**](https://arxiv.org/abs/2204.08179) | 2023 | AAAI | 2405 | Real | 2010/0/395 | [link](https://github.com/LeiaLi/ReLoBlur)
 
 ------
 
