@@ -43,18 +43,20 @@ This is a survey that reviews deep learning models and benchmark datasets relate
 
 
 # CNN-based Blind Motion Deblurring Models:  <a id="cnnmodels" class="anchor" href="#CNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:rocket::rocket::rocket:Update (in 2024-01-08)
+:rocket::rocket::rocket:Update (in 2024-01-08) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-3 | 2021 | MSCAN | TCSVT | x | [Paper]()/Paper
-3 | 2021 | MSCAN | TCSVT | x | [Paper]()/Paper
-3 | 2021 | MPRNet | CVPR | Multi-stage progressive image restoration | [Paper]()/Paper
-3 | 2021 | MIMOU-Net+| ICCV | Rethinking coarse-to-fine approach in single image deblurring | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cho_Rethinking_Coarse-To-Fine_Approach_in_Single_Image_Deblurring_ICCV_2021_paper.pdf)/[Project](https://github.com/chosj95/MIMO-UNet)
-3 | 2021 | SDWNet | ICCV | Sdwnet: A straight dilated network with wavelet transformation for image deblurring | [Paper]()/Paper
-3 | 2020 | MSCAN | TCSVT | Deep convolutional-neural-network-based channel attention for single image dynamic scene blind deblurring | [Paper]()/Paper
-3 | 2020 | DGN | TIP | Dynamic scene deblurring by depth guided model | [Paper]()/Paper
-3 | 2019 | PSS-NSC | CVPR | Dynamic scene deblurring with parameter selective sharing and nested skip connections | [Paper]()/Paper
+12 | 2022 | IRNeXt | IVML | Irnext: Rethinking convolutional network design for image restoration | [Paper]()/Project
+11 | 2022 | BANet | TIP | Banet: a blur-aware attention network for dynamic scene deblurring | [Paper]()/Project
+10 | 2022 | HINet | CVPR | Hinet: Half instance normalization network for image restoration | [Paper]()/Project
+9 | 2022 | MSSNet | ECCV | Mssnet: Multi-scale-stage network for single image deblurring | [Paper]()/Project
+8 | 2021 | MPRNet | CVPR | Multi-stage progressive image restoration | [Paper]()/Project
+7 | 2021 | MIMOU-Net+| ICCV | Rethinking coarse-to-fine approach in single image deblurring | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cho_Rethinking_Coarse-To-Fine_Approach_in_Single_Image_Deblurring_ICCV_2021_paper.pdf)/[Project](https://github.com/chosj95/MIMO-UNet)
+6 | 2021 | SDWNet | ICCV | Sdwnet: A straight dilated network with wavelet transformation for image deblurring | [Paper]()/Project
+5 | 2020 | MSCAN | TCSVT | Deep convolutional-neural-network-based channel attention for single image dynamic scene blind deblurring | [Paper]()/Project
+4 | 2020 | DGN | TIP | Dynamic scene deblurring by depth guided model | [Paper]()/Project
+3 | 2019 | PSS-NSC | CVPR | Dynamic scene deblurring with parameter selective sharing and nested skip connections | [Paper]()/Project
 2 | 2019 | DMPHN | CVPR | Deep stacked hierarchical multi-patch network for image deblurring | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Deep_Stacked_Hierarchical_Multi-Patch_Network_for_Image_Deblurring_CVPR_2019_paper.pdf)/[Project](https://github.com/HongguangZhang/DMPHN-cvpr19-master)
 1 | 2017 | DeepDeblur| CVPR | Deep multi-scale convolutional neural network for dynamic scene deblurring | [Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Nah_Deep_Multi-Scale_Convolutional_CVPR_2017_paper.pdf)/[Project](https://github.com/SeungjunNah/DeepDeblur-PyTorch)
 
