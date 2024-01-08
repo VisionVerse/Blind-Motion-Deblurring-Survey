@@ -1,7 +1,6 @@
 # Application of Deep Learning in Blind Motion Deblurring: Current Status and Future Prospects
 
-
-:fire::fire::fire: In this review, we have systematically examined over 150 papers, summarizing and analyzing more than 30 deblurring methods in blind motion scenarios. 
+:fire::fire::fire: In this review, we have systematically examined **over 150 papers**, summarizing and analyzing **more than 30** blind motion deblurring methods. 
 
 :fire::fire::fire:Extensive qualitative and quantitative comparisons have been conducted against the current state-of-the-art methods, highlighting their limitations and pointing out future research directions.
 
