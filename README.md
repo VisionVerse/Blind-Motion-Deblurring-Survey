@@ -4,6 +4,8 @@
 
 :fire::fire::fire:Extensive qualitative and quantitative comparisons have been conducted against the current state-of-the-art methods, highlighting their limitations and pointing out future research directions.
 
+
+
 ![avatar](/time_sequence.jpg)
 **Fig 1.** Overview of deep learning methods for blind motion deblurring.
 
