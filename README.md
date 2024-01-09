@@ -73,9 +73,6 @@
 
 
 
-
-
-
 # RNN-based Blind Motion Deblurring Models:  <a id="rnnmodels" class="anchor" href="#RNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2024-01-06) :balloon:
 
