@@ -175,7 +175,7 @@ python evaluate_RealBlur_R.py
 
 # Citation: <a id="citation" class="anchor" href="#citation" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
-If you find our survey paper and evaluation code are useful, please cite the following paper:
+If you find our survey paper and evaluation code are useful, please cite the following [paper](https://arxiv.org/abs/2401.05055):
 ```BibTeX
 @article{xiang2024application,
       title={Application of Deep Learning in Blind Motion Deblurring: Current Status and Future Prospects}, 
