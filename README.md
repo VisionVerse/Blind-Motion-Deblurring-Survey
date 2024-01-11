@@ -177,7 +177,12 @@ python evaluate_RealBlur_R.py
 
 If you find our survey paper and evaluation code are useful, please cite the following paper:
 ```BibTeX
-
+@article{xiang2024application,
+      title={Application of Deep Learning in Blind Motion Deblurring: Current Status and Future Prospects}, 
+      author={Yawen Xiang and Heng Zhou and Chengyang Li and Fangwei Sun and Zhongbo Li and Yongqiang Xie},
+      year={2024},
+      journal={arXiv preprint arXiv:2401.05055},
+}
 ```
 
 
