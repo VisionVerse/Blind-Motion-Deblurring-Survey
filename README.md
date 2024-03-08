@@ -4,6 +4,7 @@
 
 :fire::fire::fire: Extensive qualitative and quantitative comparisons have been conducted against the current SOTA methods on four datasets, highlighting their limitations and pointing out future research directions.
 
+:fire::fire::fire::fire: The latest deblurring papers of [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers) have been included~
 
 
 ![avatar](/time_sequence.jpg)
