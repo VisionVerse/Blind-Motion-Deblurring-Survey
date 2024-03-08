@@ -124,7 +124,7 @@
 
 
 # Transformer-based Blind Motion Deblurring Models:  <a id="tmodels" class="anchor" href="#Tmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:rocket::rocket::rocket:Update (in 2024-01-07) :balloon:
+:rocket::rocket::rocket:Update (in 2024-03-08) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
@@ -146,12 +146,12 @@
 
 
 # Diffusion-based Blind Motion Deblurring Models:  <a id="tmodels" class="anchor" href="#Tmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:rocket::rocket::rocket:Update (in 2024-01-07) :balloon:
+:rocket::rocket::rocket:Update (in 2024-03-08) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
 01 | 2024 |ID-Blau| CVPR | ID-Blau: Image Deblurring by Implicit Diffusion-based reBLurring AUgmentation | [Paper]/[Project]
-02 | 2024 || CVPR | Fourier Priors-Guided Diffusion for Zero-Shot Joint Low-Light Enhancement and Deblurring | [Paper]/[Project]
+02 | 2024 |  | CVPR | Fourier Priors-Guided Diffusion for Zero-Shot Joint Low-Light Enhancement and Deblurring | [Paper]/[Project]
 
 
 
