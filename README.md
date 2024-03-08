@@ -136,7 +136,7 @@
 06 | 2023 | FFTformer | CVPR | Efficient Frequency Domain-based Transformers for High-Quality Image Deblurring | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Kong_Efficient_Frequency_Domain-Based_Transformers_for_High-Quality_Image_Deblurring_CVPR_2023_paper.pdf)/[Project](https://github.com/kkkls/fftformer)
 07 | 2023 | BiT | CVPR | Blur Interpolation Transformer for Real-World Motion from Blur | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhong_Blur_Interpolation_Transformer_for_Real-World_Motion_From_Blur_CVPR_2023_paper.pdf)/[Project](https://github.com/zzh-tech/bit)
 08 | 2024 | | CVPR | Efficient Multi-scale Network with Learnable Discrete Wavelet Transform for Blind Motion Debluring| [Paper]/[Project]
-
+09 | 2024 | | TNNLS |Image Deblurring by Exploring In-Depth Properties of Transformer| [Paper]/[Project](https://github.com/erfect2020/TransformerPerceptualLoss)
 
 
 
