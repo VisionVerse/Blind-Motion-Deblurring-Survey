@@ -18,7 +18,7 @@
 3.  <a href="#rnnmodels"> RNN-based  Blind Motion Deblurring Models </a>
 4. <a href="#ganmodels"> GAN-based  Blind Motion Deblurring Models </a>
 5. <a href="#tmodels"> Transformer-based  Blind Motion Deblurring Models </a>
-6. <a href="#tmodels"> Diffusion-based  Blind Motion Deblurring Models </a>
+6. <a href="#diffmodels"> Diffusion-based  Blind Motion Deblurring Models </a>
 7. <a href="#datasets"> Motion Deblurring Datasets </a>
 8. <a href="#evaluation"> Evaluation </a>
 9. <a href="#citation"> Citation </a>
@@ -145,7 +145,7 @@
 
 
 
-# Diffusion-based Blind Motion Deblurring Models:  <a id="tmodels" class="anchor" href="#Tmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# Diffusion-based Blind Motion Deblurring Models:  <a id="tmodels" class="anchor" href="#Diffmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2024-03-08) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
