@@ -25,7 +25,7 @@
 
 ------
 
-# Related Reviews and Surveys to Deblurring:  <a id="survey" class="anchor" href="#survey" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# 0. Related Reviews and Surveys to Deblurring:  <a id="survey" class="anchor" href="#survey" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2023-12-28) :balloon:
 **No.** | **Year** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-: 
@@ -98,7 +98,7 @@
 
 
 
-# GAN-based Blind Motion Deblurring Models:  <a id="ganmodels" class="anchor" href="#GANmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# 3. GAN-based Blind Motion Deblurring Models:  <a id="ganmodels" class="anchor" href="#GANmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2024-01-07) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
@@ -123,7 +123,7 @@
 
 
 
-# Transformer-based Blind Motion Deblurring Models:  <a id="tmodels" class="anchor" href="#Tmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# 4. Transformer-based Blind Motion Deblurring Models:  <a id="tmodels" class="anchor" href="#Tmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2024-03-08) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
@@ -145,7 +145,7 @@
 
 
 
-# Diffusion-based Blind Motion Deblurring Models:  <a id="diffmodels" class="anchor" href="#Diffmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# 5. Diffusion-based Blind Motion Deblurring Models:  <a id="diffmodels" class="anchor" href="#Diffmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2024-03-08) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
@@ -169,7 +169,7 @@
 
 
 
-#  Motion Deblurring Datasets:  <a id="datasets" class="anchor" href="#datasets" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+#  6. Motion Deblurring Datasets:  <a id="datasets" class="anchor" href="#datasets" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2024-01-08) :balloon:
 **No.** |**Dataset** | **Year** | **Pub.** |**Size** |  **Types** | **Train/Val/Test**  | **Download**
 :-: | :-: | :-: | :-:  | :-:  | :-: | :- | :-:
@@ -183,7 +183,7 @@
 
 ------
 
-# Evaluation:  <a id="evaluation" class="anchor" href="#evaluation" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# 7. Evaluation:  <a id="evaluation" class="anchor" href="#evaluation" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 
 * For evaluation on **GoPro** results in MATLAB, modify './out/...' to the corresponding path
 ```matlab
