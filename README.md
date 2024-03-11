@@ -49,7 +49,7 @@
 
 
 
-# CNN-based Blind Motion Deblurring Models:  <a id="cnnmodels" class="anchor" href="#CNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# 1. CNN-based Blind Motion Deblurring Models:  <a id="cnnmodels" class="anchor" href="#CNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2024-01-08) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
@@ -83,7 +83,7 @@
 
 
 
-# RNN-based Blind Motion Deblurring Models:  <a id="rnnmodels" class="anchor" href="#RNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# 2. RNN-based Blind Motion Deblurring Models:  <a id="rnnmodels" class="anchor" href="#RNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2024-01-06) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
