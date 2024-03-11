@@ -145,7 +145,7 @@
 
 
 
-# Diffusion-based Blind Motion Deblurring Models:  <a id="tmodels" class="anchor" href="#Diffmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
+# Diffusion-based Blind Motion Deblurring Models:  <a id="diffmodels" class="anchor" href="#Diffmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
 :rocket::rocket::rocket:Update (in 2024-03-08) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
