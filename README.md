@@ -150,7 +150,7 @@
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
-01 | 2024 |ID-Blau| CVPR | ID-Blau: Image Deblurring by Implicit Diffusion-based reBLurring AUgmentation | [Paper]/[Project]
+01 | 2024 |ID-Blau| CVPR | ID-Blau: Image Deblurring by Implicit Diffusion-based reBLurring AUgmentation | [Paper](https://arxiv.org/pdf/2312.10998.pdf)/[Project]
 02 | 2024 |  | CVPR | Fourier Priors-Guided Diffusion for Zero-Shot Joint Low-Light Enhancement and Deblurring | [Paper]/[Project]
 
 
