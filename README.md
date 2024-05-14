@@ -50,7 +50,7 @@
 
 
 # 1. CNN-based Blind Motion Deblurring Models:  <a id="cnnmodels" class="anchor" href="#CNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:rocket::rocket::rocket:Update (in 2024-01-08) :balloon:
+:rocket::rocket::rocket:Update (in 2024-05-14) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
@@ -88,7 +88,7 @@
 
 
 # 2. RNN-based Blind Motion Deblurring Models:  <a id="rnnmodels" class="anchor" href="#RNNmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:rocket::rocket::rocket:Update (in 2024-01-06) :balloon:
+:rocket::rocket::rocket:Update (in 2024-05-14) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
@@ -104,7 +104,7 @@
 
 
 # 3. GAN-based Blind Motion Deblurring Models:  <a id="ganmodels" class="anchor" href="#GANmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:rocket::rocket::rocket:Update (in 2024-01-07) :balloon:
+:rocket::rocket::rocket:Update (in 2024-05-14) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
@@ -130,7 +130,7 @@
 
 
 # 4. Transformer-based Blind Motion Deblurring Models:  <a id="tmodels" class="anchor" href="#Tmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:rocket::rocket::rocket:Update (in 2024-03-08) :balloon:
+:rocket::rocket::rocket:Update (in 2024-05-14) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
@@ -152,7 +152,7 @@
 
 
 # 5. Diffusion-based Blind Motion Deblurring Models:  <a id="diffmodels" class="anchor" href="#Diffmodels" aria-hidden="true"><span class="octicon octicon-link"></span></a>  
-:rocket::rocket::rocket:Update (in 2024-03-08) :balloon:
+:rocket::rocket::rocket:Update (in 2024-05-14) :balloon:
 
 **No.** | **Year** | **Model** |**Pub.** | **Title** | **Links** 
 :-: | :-: | :-: | :-  | :-  | :-: 
