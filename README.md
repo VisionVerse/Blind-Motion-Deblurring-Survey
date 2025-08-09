@@ -6,6 +6,9 @@
 
 :fire::fire::fire::fire: The latest deblurring papers of [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers) have been included~
 
+## :mega: Update
+- **2025/08/09**: PR +1
+
 
 ![avatar](/time_sequence.jpg)
 **Fig 1.** Overview of deep learning methods for blind motion deblurring.
