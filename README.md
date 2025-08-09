@@ -228,8 +228,10 @@ If you find [our survey paper](https://doi.org/10.1007/s00371-024-03632-8) and e
   title={Deep learning in motion deblurring: current status, benchmarks and future prospects},
   author={Xiang, Yawen and Zhou, Heng and Li, Chengyang and Sun, Fangwei and Li, Zhongbo and Xie, Yongqiang},
   journal={The Visual Computer},
-  pages={1--27},
-  year={2024},
+  volume={41},
+  number={6},
+  pages={3801--3827},
+  year={2025},
   publisher={Springer}
 }
 ```
