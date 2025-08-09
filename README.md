@@ -17,9 +17,7 @@
 **Fig 1.** Overview of deep learning methods for blind motion deblurring.
 
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=VisionVerse/Blind-Motion-Deblurring-Survey&type=Date)](https://www.star-history.com/#VisionVerse/Blind-Motion-Deblurring-Survey&Date)
 
 ## Content:
 
@@ -236,6 +234,9 @@ If you find [our survey paper](https://doi.org/10.1007/s00371-024-03632-8) and e
 }
 ```
 
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=VisionVerse/Blind-Motion-Deblurring-Survey&type=Date)](https://www.star-history.com/#VisionVerse/Blind-Motion-Deblurring-Survey&Date)
 
 --------------------------------------------------------------------------------------
 
