@@ -1,13 +1,16 @@
 # Deep Learning in Motion Deblurring: Current Status, Benchmarks and Future Prospects [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)![Stars](https://img.shields.io/github/stars/VisionVerse/Blind-Motion-Deblurring-Survey)
 
+## :mega: Update
+- **2025/08/09**: PR +1
+
+
 :fire::fire: In this review, we have systematically examined **over 150 papers** :page_with_curl::page_with_curl::page_with_curl:, summarizing and analyzing :star2:**more than 30** blind motion deblurring methods. 
 
 :fire::fire::fire: Extensive qualitative and quantitative comparisons have been conducted against the current SOTA methods on four datasets, highlighting their limitations and pointing out future research directions.
 
 :fire::fire::fire::fire: The latest deblurring papers of [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers) have been included~
 
-## :mega: Update
-- **2025/08/09**: PR +1
+
 
 
 ![avatar](/time_sequence.jpg)
