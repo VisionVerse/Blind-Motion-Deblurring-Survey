@@ -1,6 +1,7 @@
 # Deep Learning in Motion Deblurring: Current Status, Benchmarks and Future Prospects [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)![Stars](https://img.shields.io/github/stars/VisionVerse/Blind-Motion-Deblurring-Survey)
 
 ## :mega: Update
+- **2025/08/11**: Diffusion Deblurring +1
 - **2025/08/09**: Diffusion Deblurring +1
 
 
@@ -167,6 +168,7 @@
 01 | 2023 |  | ICCV | Multiscale Structure Guided Diffusion for Image Deblurring | [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Ren_Multiscale_Structure_Guided_Diffusion_for_Image_Deblurring_ICCV_2023_paper.html)/[Project]
 02 | 2024 |ID-Blau| CVPR | ID-Blau: Image Deblurring by Implicit Diffusion-based reBLurring AUgmentation | [Paper](https://arxiv.org/pdf/2312.10998.pdf)/[Project]
 03 | 2024 |  | CVPR | Fourier Priors-Guided Diffusion for Zero-Shot Joint Low-Light Enhancement and Deblurring | [Paper]/[Project]
+04 | 2024 | MDDF-SIDD | PR | Single image defocus deblurring via multimodal-guided diffusion and depth-aware fusion | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320325007939)/[Project]
 
 
 
